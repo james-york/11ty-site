@@ -112,7 +112,8 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy(path)
   );
 
-  eleventyConfig.addPassthroughCopy("src/assets/pdfs/");
+ // to get pdfs public
+  eleventyConfig.addPassthroughCopy('src/assets/pdfs/');
 
   // social icons to root directory
   eleventyConfig.addPassthroughCopy({
