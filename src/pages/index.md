@@ -8,13 +8,32 @@ blog:
   intro: "Here are the most recent four blog posts. There may be more..."
 ---
 
-### 🎤 I'm open to:
+<style>
+     .column {
+       float: left;
+       width: 50%;
+       height: auto;
+     }
+</style>
 
-* Workshops on teaching (such as [this one](https://www.youtube.com/watch?v=51oaWP3AdfM))
-* Research collaborations
-* Consultations
-* I also give Japanese lessons!
+Welcome to my site! Here you can find out about my projects, and research interests.
 
-🤙 Get in touch [📧 by email](mailto:york@meiji.ac.jp)
+<div class="row">
+ <div class="column">
+   <b>I'm available for</b>
+   <ul>
+    <li>Workshops on teaching (such as <a href="https://www.youtube.com/watch?v=51oaWP3AdfM">this one</a>).</li>
+      <li>Research collaborations</li>
+        <li>Consultations</li>
+          <li>I also give Japanese lessons!</li>
+          </ul>
+        </br>
+        🤙 Get in touch <a href="mailto:york@meiji.ac.jp">📧 by email</a>.
 
-ℹ️ learn more about me and my projects [here](/About)
+        ℹ️ learn more about me and my projects [here](/About)
+      </div>
+      <div class="column">
+        {% imagePlaceholder "./src/assets/images/james-LLP-profile.png", "Alt... Pic of me" %}
+      </div>
+  </div>
+</br>
