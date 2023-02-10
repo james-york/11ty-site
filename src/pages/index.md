@@ -15,5 +15,6 @@ blog:
 * Consultations
 * I also give Japanese lessons!
 
-🤙 Get in touch: [📧 my email](mailto:york@meiji.ac.jp)
-ℹ️ [More details here](/About)
+🤙 Get in touch [📧 by email](mailto:york@meiji.ac.jp)
+
+ℹ️ learn more about me and my projects [here](/About)

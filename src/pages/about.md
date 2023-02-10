@@ -12,7 +12,7 @@ I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html
 
 * [Curriculum Vitae](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing) as a living Google Doc.
 
-## My major projects:
+## My major projects
 ### 🧑‍🏫 Work and research
 My research at [Meiji University](https://www.meiji.ac.jp/cip/english/) is centered on the application of **games and play** in **language and literacy** teaching contexts. 
 
@@ -55,3 +55,6 @@ Some more info about Kotoba Miners:
 * I stream lessons on [Twitch](https://www.twitch.tv/cheapsh0t) (sometimes).
 * If you'd like a private Japanese lesson with me, consider becoming a [Patreon](https://www.patreon.com/cheapsh0t).
 * You can find an archive of recordings on my [YouTube channel](https://www.youtube.com/channel/UCiqGI8HKPyP9rTQbN7lx-gQ).
+
+- - - 
+This website is built with [Eleventy](https://www.11ty.dev/) and the template is made by [Madrilene](https://github.com/madrilene/eleventy-excellent#built-with-eleventy-excellent).
