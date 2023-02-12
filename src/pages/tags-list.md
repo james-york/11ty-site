@@ -3,8 +3,10 @@ layout: page
 permalink: /tags/
 title: "Tags and Topics"
 ---
-
-{% for tag in collections.all | getAllTags | filterTagList %}
-  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-  <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> | 
+<ul>
+{% for tag in collections.all | getAllTags | filterTagList | sort %}
+<li>  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="tag">{{ tag | title }}</a>
+  </li>
 {% endfor %}
+</ul>
