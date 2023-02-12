@@ -13,7 +13,7 @@ permalink: /tags/{{ tag }}/
 {% set taglist = collections[ tag ] %}
 {% for post in taglist | reverse %}
   <li>
-    <b><a href="{{ post.url }}">{{ post.data.title }}</a> </b><span style="font-size: 16px">Posted: {{ post.data.date }}</span>
+    <b><a href="{{ post.url }}">{{ post.data.title }}</a> || </b><span style="font-size: 14px">Posted: {{ post.data.date }}</span>
     <br>
     <b>Description:</b> {{ post.data.description }}
   </li>

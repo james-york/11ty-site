@@ -1,13 +1,18 @@
 module.exports = {
   top: [
     {
-      text: 'About',
+      text: '💁 About',
       url: '/about/'
     },
     {
-      text: 'Blog',
+      text: '✏️ Blog',
       url: '/blog/'
+    },
+    {
+      text: '🏷️ Tags',
+      url: '/tags/'
     }
+
   ],
   bottom: [
     {
