@@ -8,9 +8,9 @@ youtube: true
 
 {% imagePlaceholder "./src/assets/images/james-LLP-profile.png", "Alt... Pic of me" %}
 
-I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html), teaching and researching on the topic of ludic[^first] approaches to education.
+I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html), teaching and researching on the topic of ludic[^1] approaches to education.
 
-[^first]:
+[^1]:
     I define ludic as "being playful," which includes
     - playful objects
     - playful dispositions to teaching
@@ -36,7 +36,7 @@ I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html
 	}
 </style>
 
-### Links (to my major projects)          
+### 🔗 Quick links
              
 <table>
 	<thead>
@@ -65,11 +65,11 @@ I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html
 	</tbody>
 </table>
 
-## My major projects
+## More details
 ### 🧑‍🏫 Work and research
 My research at [Meiji University](https://www.meiji.ac.jp/cip/english/) is centered on the application of **games and play** in **language and literacy** teaching contexts. 
 
-**Currently teaching**
+### Currently teaching
 
 **Advanced Communicative English: Academic Writing**
 Students are expected to write a term paper as well as follow the material in the course textbook. All communication is expected to be in English.

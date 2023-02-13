@@ -46,6 +46,11 @@ const {slugifyString} = require('./config/utils');
 const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
+//const pluginTOC = require('eleventy-plugin-toc');
+const markdownIt = require('markdown-it');
+const markdownItAnchor = require('markdown-it-anchor');
+const markdownItFootnote = require("markdown-it-footnote");
+const pluginTOC = require('eleventy-plugin-nesting-toc');
 
 
 module.exports = eleventyConfig => {
@@ -114,9 +119,20 @@ module.exports = eleventyConfig => {
   // 	--------------------- Plugins ---------------------
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
-  eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(pluginTOC);
+  //---------------------- Markdown -------------------
+
+  //eleventyConfig.setLibrary('md', markdownLib);
+  //eleventyConfig.setLibrary("md", markdownIt(options));
+  eleventyConfig.setLibrary("md",
+      markdownIt({
+          html: true,
+          linkify: true,
+          typographer: true,
+      }).use(markdownItAnchor, {}).use(markdownItFootnote, {})
+  );
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path

@@ -18,11 +18,9 @@ blog:
   height: auto;
 }
 </style>
-
-Welcome to my site! Here you can find out about my projects, and research interests.
-
 <div class="row">
  <div class="column">
+  Welcome to my site! Here you can find out about my projects, and research interests.
    <b>I'm available for</b>
    <ul>
     <li>Workshops on teaching (such as <a href="https://www.youtube.com/watch?v=51oaWP3AdfM">this one</a>).</li>
@@ -32,11 +30,11 @@ Welcome to my site! Here you can find out about my projects, and research intere
           </ul>
         </br>
         🤙 Get in touch <a href="mailto:york@meiji.ac.jp">📧 by email</a>.
-
+        
         ℹ️ learn more about me and my projects [here](/About)
       </div>
       <div class="column">
-        <img src="/assets/images/james-LLP-profile.png" alt="A GIF animation" />
+        <img src="/assets/images/james-LLP-profile.png" alt="A pic of me."/>
       </div>
   </div>
 </br>
