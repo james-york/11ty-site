@@ -4,6 +4,8 @@ description: 'An explosive remix of Codenames.'
 date: 2023-02-02
 tags:
 - student game
+- test tags
+- yo mamma
 ---
 
 {% imagePlaceholder "./src/assets/images/mekkuriko-battle.JPG", "Alt... Pic of the game in action" %} 

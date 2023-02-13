@@ -8,9 +8,62 @@ youtube: true
 
 {% imagePlaceholder "./src/assets/images/james-LLP-profile.png", "Alt... Pic of me" %}
 
-I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html), teaching and researching games, play, and education. 
+I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html), teaching and researching on the topic of ludic[^first] approaches to education.
 
-* [Curriculum Vitae](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing) as a living Google Doc.
+[^first]:
+    I define ludic as "being playful," which includes
+    - playful objects
+    - playful dispositions to teaching
+    Learn more [here](https://youtu.be/VtHiBZ3jn8g)
+
+
+📑 [**Curriculum Vitae**](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing) as a living Google Doc.
+
+
+<style>
+	table {
+		padding:5px;
+		align-self: center;
+	}
+	table th {
+		padding:5px;
+		background: #9351b6;
+		color: #ffffff;
+	}
+	table td {
+		text-align:center;
+		padding:5px;
+	}
+</style>
+
+### Links (to my major projects)          
+             
+<table>
+	<thead>
+		<tr>
+			<th>Social media</th>
+			<th>Ludic Language Pedagogy</th>
+			<th>Kotoba Miners</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://twitter.com/cheapshot">🐤 Twitter</a></br>
+				<a href="https://www.youtube.com/channel/UCiqGI8HKPyP9rTQbN7lx-gQ">📺 YouTube</a></br>
+				<a href="https://twitch.com/cheapsh0t">📹 Twitch</a>
+			</td>
+			<td>
+				<a href="https://llpjournal.org">🌐 Journal</a></br>
+				<a href="https://discord.gg/je9QZsnntf">💬 Discord</a>
+			</td>
+			<td>
+				<a href="https://discord.gg/az5vgWn">💬 Discord</a></br>
+				<a href="https://www.patreon.com/cheapsh0t">🇯🇵💴 Patreon</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## My major projects
 ### 🧑‍🏫 Work and research
@@ -55,6 +108,3 @@ Some more info about Kotoba Miners:
 * I stream lessons on [Twitch](https://www.twitch.tv/cheapsh0t) (sometimes).
 * If you'd like a private Japanese lesson with me, consider becoming a [Patreon](https://www.patreon.com/cheapsh0t).
 * You can find an archive of recordings on my [YouTube channel](https://www.youtube.com/channel/UCiqGI8HKPyP9rTQbN7lx-gQ).
-
-- - - 
-This website is built with [Eleventy](https://www.11ty.dev/) and the template is made by [Madrilene](https://github.com/madrilene/eleventy-excellent#built-with-eleventy-excellent).

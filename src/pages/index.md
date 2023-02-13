@@ -9,11 +9,14 @@ blog:
 ---
 
 <style>
-     .column {
-       float: left;
-       width: 50%;
-       height: auto;
-     }
+  .column {
+   float: left;
+   width: 50%;
+   }
+  img {
+  max-width: 100%;
+  height: auto;
+}
 </style>
 
 Welcome to my site! Here you can find out about my projects, and research interests.
@@ -33,7 +36,7 @@ Welcome to my site! Here you can find out about my projects, and research intere
         ℹ️ learn more about me and my projects [here](/About)
       </div>
       <div class="column">
-        {% imagePlaceholder "./src/assets/images/james-LLP-profile.png", "Alt... Pic of me" %}
+        <img src="/assets/images/james-LLP-profile.png" alt="A GIF animation" />
       </div>
   </div>
 </br>
