@@ -7,7 +7,6 @@ blog:
   title: '📰 Blog'
   intro: "Here are the most recent four blog posts. There may be more..."
 ---
-
 <style>
   .column {
    float: left;
@@ -38,3 +37,4 @@ blog:
       </div>
   </div>
 </br>
+<hr/>

@@ -36,3 +36,10 @@
       format('woff2'),
     url(/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff) format('woff');
 }
+
+@font-face {
+    font-family: 'SymbolaRegular';
+        src: url('/assets/fonts/symbola/SymbolaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
