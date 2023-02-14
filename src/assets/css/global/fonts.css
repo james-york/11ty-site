@@ -39,7 +39,9 @@
 
 @font-face {
     font-family: 'SymbolaRegular';
-        src: url('/assets/fonts/symbola/SymbolaRegular.ttf') format('truetype');
+        src: local(''),
+        url('/assets/fonts/symbola/SymbolaRegular.ttf') 
+        format('truetype');
     font-weight: normal;
     font-style: normal;
       }

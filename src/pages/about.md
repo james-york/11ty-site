@@ -60,7 +60,7 @@ I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html
 			</td>
 			<td>
 				<a href="https://discord.gg/az5vgWn">💬 Discord</a></br>
-				<a href="https://www.patreon.com/cheapsh0t">🇯🇵💴 Patreon</a>
+				<a href="https://www.patreon.com/cheapsh0t"> 💁 Patreon</a>
 			</td>
 		</tr>
 	</tbody>

@@ -27,14 +27,12 @@ blog:
         <li>Consultations</li>
           <li>I also give Japanese lessons!</li>
           </ul>
-        </br>
-        🤙 Get in touch <a href="mailto:york@meiji.ac.jp">📧 by email</a>.
-        
-        ℹ️ learn more about me and my projects [here](/About)
       </div>
       <div class="column">
         <img src="/assets/images/james-LLP-profile.png" alt="A pic of me."/>
       </div>
   </div>
-</br>
-<hr/>
+  
+🤙 Get in touch <a href="mailto:york@meiji.ac.jp">📧 by email</a>.
+
+ℹ️ learn more about me and my projects [here](/About).

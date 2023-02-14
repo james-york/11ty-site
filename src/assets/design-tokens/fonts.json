@@ -10,7 +10,7 @@
     {
       "name": "Base",
       "description": "System fonts for body copy and globally set text.",
-      "value": ["Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+      "value": ["Roboto", "Helvetica Neue", "Arial", "sans-serif","SymbolaRegular"]
     },
     {
       "name": "Mono",
