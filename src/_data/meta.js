@@ -1,6 +1,6 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: '🗦 James York\'s Home 🗧',
+  siteName: '🗦 James York 🗧',
   siteDescription:
     'A place to learn more about James York!',
   siteType: 'Person', // schema
