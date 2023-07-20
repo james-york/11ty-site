@@ -13,7 +13,7 @@ I teach a "presentation skills" class to 3rd graders. There are only two student
 
 So, we "play" a lot.
 
-The class is very **dogme**[^1] in nature. Very _emergent_. We start talking, and see where things go. Topics cover things I'm interested in - education, games, the connection between games and education... and we inevitably talk about things related to the university, and their lives. 
+The class is very **dogme**[^1] in nature. Very _emergent_. We start talking, and see where things go. Topics cover things *they* are interested in, and *I'm* interested in - education, part-time jobs, English culture, our histories, the university, their lives, games, the connection between games and education...
 
 I told them that I get excited for teaching without a safety net. Without knowing fully where it is going to go when I start. An approach of just seeing what happens, reacting and teaching in response to their needs. 
 I also told them that at the same time I question myself -- should I have a solid curriculum of goals for each class accumulating in a test that assesses their knowledge? Should I have something more... "traditional?"
@@ -28,7 +28,7 @@ I showed them two pictures:
 
 **[🛝 An adventure playground]** 
 
-**[🐍 Snakes and 🪜 ladders]**
+**[🐍 Snakes and 🪜 ladders]** (the board game)
 
 I told them to consider the difference between the two pictures and how they might relate to teaching.
 
