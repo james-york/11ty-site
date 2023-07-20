@@ -51,12 +51,15 @@ const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItFootnote = require("markdown-it-footnote");
 const pluginTOC = require('eleventy-plugin-nesting-toc');
-
+const embeds = require("eleventy-plugin-embed-everything");
 
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');
+
+  //embeds
+    eleventyConfig.addPlugin(embeds);
 
   // --------------------- layout aliases -----------------------
   eleventyConfig.addLayoutAlias('base', 'base.njk');
