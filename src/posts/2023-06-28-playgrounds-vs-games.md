@@ -1,7 +1,7 @@
 ---
 title: 'Playgrounds vs Games' 
 description: 'Telling students about my approach and their responses'
-date: 2023-01-30
+date: 2023-06-28
 tags:
 - blog
 - llp

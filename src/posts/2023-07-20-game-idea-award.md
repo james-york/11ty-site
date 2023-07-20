@@ -1,7 +1,7 @@
 ---
 title: 'We won an award!' 
 description: 'Telling students about my approach and their responses'
-date: 2023-01-30
+date: 2023-07-20
 tags:
 - blog
 - competition

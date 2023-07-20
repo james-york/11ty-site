@@ -16,7 +16,7 @@ module.exports = {
   ],
   bottom: [
     {
-      text: 'Imprint',
+      text: 'Privacy',
       url: '/imprint/'
     }
   ]
