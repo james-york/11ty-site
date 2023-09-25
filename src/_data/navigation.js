@@ -11,6 +11,10 @@ module.exports = {
     {
       text: '🏷️ Tags',
       url: '/tags/'
+    },
+    {
+      text: '㉆ ゼミ',
+      url: '/seminar/index.html'
     }
 
   ],
