@@ -8,6 +8,13 @@ tags:
 - seminar
 - teaching
 ---
+## 2023年度ゼミ試験について
+
+セミ試験の追加課題は以下のフォームです。記入してください。
+
+👉 [📝 ここです！](https://forms.gle/Rb3pXGCbauWsTzbQ6) 👈
+
+---
 
 ## Research focus
 The application (or intersection) of **games and play** in **educational contexts** or society in general.
@@ -22,6 +29,4 @@ Topics that students are currently researching (as of 2023/09/26):
 * What is "game music?"
 * How can eSports be utilized to create a more inclusive society?
 
-Learn more on the York Seminar Instagram account:
-https://www.instagram.com/york_meiji/
-
+Learn more on the [York Seminar Instagram](https://www.instagram.com/york_meiji/) account.
