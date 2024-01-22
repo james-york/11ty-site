@@ -8,20 +8,6 @@ tags:
 - seminar
 - teaching
 ---
-## 2023年第二次募集
-
-ゼミ試験の面接について
-日付：2023/12/04
-場所：メディア棟　M505教室
-
-
-## 2023年度ゼミ試験について
-
-セミ試験の追加課題は以下のフォームです。記入してください。
-
-👉 [📝 ここです！](https://forms.gle/Rb3pXGCbauWsTzbQ6) 👈
-
----
 
 ## Research focus
 The application (or intersection) of **games and play** in **educational contexts** or society in general.
@@ -37,3 +23,20 @@ Topics that students are currently researching (as of 2023/09/26):
 * How can eSports be utilized to create a more inclusive society?
 
 Learn more on the [York Seminar Instagram](https://www.instagram.com/york_meiji/) account.
+
+---
+
+# Past information 
+
+## 2023年第二次募集
+
+ゼミ試験の面接について
+日付：2023/12/04
+場所：メディア棟　M505教室
+
+
+## 2023年度ゼミ試験について
+
+セミ試験の追加課題は以下のフォームです。記入してください。
+
+👉 [📝 ここです！](https://forms.gle/Rb3pXGCbauWsTzbQ6) 👈

@@ -147,7 +147,6 @@ Key points:
 
 ## References
 
-
 * Consalvo, M. (2009). There is No Magic Circle. _Games and Culture_, 4(4), 408–417. [https://doi.org/10.1177/1555412009343575](https://doi.org/10.1177/1555412009343575). 
 * Calleja, G. (2012). Erasing the Magic Circle. In: Sageng, J., Fossheim, H., Mandt Larsen, T. (eds) _The Philosophy of Computer Games. Philosophy of Engineering and Technology_, vol 7. Springer, Dordrecht. [https://doi.org/10.1007/978-94-007-4249-9_6](https://doi.org/10.1007/978-94-007-4249-9_6)
 * Goffman, E. (1974). _Frame analysis: An essay on the organization of experience_. Harvard University Press.
