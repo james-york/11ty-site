@@ -5,6 +5,10 @@ module.exports = {
       url: '/about/'
     },
     {
+      text: '🎲 Games',
+      url: '/games/index.html'
+    },
+    {
       text: '✏️ Blog',
       url: '/blog/'
     },

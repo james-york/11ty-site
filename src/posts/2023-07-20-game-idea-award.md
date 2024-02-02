@@ -1,6 +1,6 @@
 ---
 title: 'We won an award!' 
-description: 'Telling students about my approach and their responses'
+description: 'We won the Nakayama Zaidan Game Idea Award!'
 date: 2023-07-20
 tags:
 - blog

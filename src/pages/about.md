@@ -17,9 +17,16 @@ I work at [Meiji University](https://www.meiji.ac.jp/seikei/faculty/03/york.html
     Learn more [here](https://youtu.be/VtHiBZ3jn8g)
 
 
-📑 [**Curriculum Vitae**](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing) as a living Google Doc.
+📑 [**Curriculum Vitae**](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing)
 
 📨 [**Contact**](mailto:york@meiji.ac.jp)
+
+I am available for:
+* Workshops
+* Consultations
+* Game design collaborations
+* Event organizing
+* Training sessions
 
 - - -
 

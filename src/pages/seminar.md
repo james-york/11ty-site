@@ -4,7 +4,6 @@ permalink: /seminar/index.html
 description: 'All about my seminar class at Meiji University'
 layout: page
 tags:
-- student game
 - seminar
 - teaching
 ---
