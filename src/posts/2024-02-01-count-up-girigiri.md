@@ -1,7 +1,7 @@
 ---
 title: 'Count Up! / ギリギリ'
 description: 'The first game I worked on developing'
-date: 2024-01-16
+date: 2024-02-01
 tags:
 - york game lab game
 - game design
@@ -23,7 +23,7 @@ Source: https://chokobodo.com/girigiri/
 - - -
 
 ![alt_text](/assets/images/specialthanksmessage.jpg "My special thanks")
-I got a special thanks in the game booklet..!
+<p style="text-align: center;">I got a special thanks in the game booklet..!</p>
 
 One of the first games that I worked on is the smash hit **Giri Giri** (meaning: *just in time*) which is available to buy in 100 yen shops (Daiso) all over Japan.
 
@@ -38,7 +38,8 @@ I also initially introduced Ryoya to a graphic artist friend of mine to help the
 Some things from memory that I did to help:
 
 + Playtested the game extensively on Tabletop Simulator.
-+ Asked them to include the tracker to know excalty which number we were on.
++ Helped design some of the special ability cards.
++ Asked them to include the tracker to know exactly which number we were on.
 + I even think the name "Giri Giri" was something I came up with during test play, but I could be wrong...!
 
 ## Why this project started me on the journey I'm on now

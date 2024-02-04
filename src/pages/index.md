@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: "Let's get ludic"
-description: 'Created with 11ty.'
+description: 'The homepage of James York and the York Game Lab.'
 layout: 'home'
 blog:
   title: '📰 Blog'
@@ -26,17 +26,11 @@ blog:
 </style>
 <div class="row">
   <div class="column">
-    <p>Welcome to my site! Here you can find out about my projects, and research interests.</p> 
-    <b>I'm available for</b>
-    <ul>
-      <li>Workshops on teaching (such as <a href="https://www.youtube.com/watch?v=51oaWP3AdfM">this one</a>).</li>
-      <li>Research collaborations</li>
-      <li>Consultations</li>
-      <li>I also give Japanese lessons!</li>
-    </ul>
+    <p>Welcome to my site! </p>
+    <p>Here you can find out about my projects, games, and research.</p> 
   </div>
   <div class="column">
-    <img src="/assets/images/james-LLP-profile.png" alt="A pic of me."/>
+    <img src="/assets/images/james-LLP-profile.png" alt="A pic of me." width="300"/>
   </div>
 </div>
 
@@ -45,4 +39,7 @@ blog:
 * ☎️ Ding me on the LLP [Discord](https://discord.gg/je9QZsnntf).
 * 💬 Text me on [Telegram](https://t.me/cheapshot)
 
-#### ℹ️ Learn more about me and my projects [here](/About).
+- - -
+
+* ℹ️ Learn more about me and my projects [here](/About).
+* 🎲 Learn about my games [here](/games/index.html).
