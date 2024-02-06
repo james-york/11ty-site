@@ -1,7 +1,7 @@
 ---
 title: 'I made a sokoban puzzle!'
 description: 'Come play my box-filled puzzle game!'
-date: 2024-02-01
+date: 2024-02-06
 tags:
 - york game lab game
 - game design
