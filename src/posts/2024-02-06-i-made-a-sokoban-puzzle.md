@@ -14,16 +14,19 @@ tags:
 ![alt_text](/assets/images/llpokoban.png "LLPokoban screenshot")
 
 
-I've been obsessed with sokoban (倉庫番) puzzles recently and thought I'd have a go at making one of my own. I know it's simple, but it was fun to make, and I hope you enjoy it, too.
+I've been obsessed with sokoban (倉庫番) puzzles recently and thought I'd have a go at making one of my own. The game was made on the excellent [Puzzle Script](puzzlescript.net/) website, where you can program your own sokoban-style puzzle game, too. Give it a go, and let me know what you make!
 
-The design is based on the LLP logo:
+The design of my game is based on the LLP logo:
 
 ![alt_text](/assets/images/llplogo.png "LLP Logo")
 
 You have to move the L L and P "boxes" into the correct positions. 
 
-You can play the game [here](https://cheapshot.itch.io/llpokoban)! Do let me know your thoughts! (Leave a comment, or send me an email [here](mailto:york@meiji.ac.jp) 📧) 
+👉 **You can play the game [here](https://cheapshot.itch.io/llpokoban)!** 👈
 
+Do let me know your thoughts! (Leave a comment, or send me an email [here](mailto:york@meiji.ac.jp) 📧) 
+
+- - -
 
 Some other excellent sokoban games you should try, too:
 
